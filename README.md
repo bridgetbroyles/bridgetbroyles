@@ -11,7 +11,7 @@ I am a computer science student who loves machine learning, full stack developme
 
 ## Skills
 **Languages:** Python, C++, Java, JavaScript  
-**ML & Data:** scikit-learn, PyTorch, NumPy, pandas *(WIP, still learning)*
+**ML & Data:** scikit-learn, PyTorch, NumPy, pandas (WIP, still learning)
 **Tools & Dev:** Git, Docker, VS Code, CI/CD  
 **Other:** Embedded systems (Arduino), discrete math foundations, linear algebra
 
