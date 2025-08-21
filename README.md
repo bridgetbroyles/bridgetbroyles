@@ -19,4 +19,4 @@ I am a computer science student who loves machine learning, full stack developme
 - LinkedIn: https://www.linkedin.com/in/bridgetbroyles  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgetbroyles&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=bridgetbroyles&show_icons=true)
+
